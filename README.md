@@ -192,17 +192,32 @@ It can be further enhanced to build advanced real-time health monitoring applica
 
 <img width="368" height="177" alt="Screenshot 2026-05-03 161552" src="https://github.com/user-attachments/assets/57057253-c77d-48ca-9555-45e174fc39ee" />
 
+---
+
+*Adding patient details
 
 <img width="266" height="220" alt="Screenshot 2026-05-03 161302" src="https://github.com/user-attachments/assets/8492de94-1e38-47b9-96be-afbac298fd92" />
 
+---
+
+*View patient details
 
 <img width="271" height="334" alt="Screenshot 2026-05-03 161504" src="https://github.com/user-attachments/assets/825e4e5d-d95b-4e83-a870-dc7868fc67e7" />
 
+---
 
+* Search patient by ID
+  
 <img width="294" height="214" alt="Screenshot 2026-05-03 161622" src="https://github.com/user-attachments/assets/7afd62e1-cb12-40ff-b9b9-f7aa6e771ced" />
 
+---
+
+*Update patient
 
 <img width="376" height="174" alt="Screenshot 2026-05-03 162153" src="https://github.com/user-attachments/assets/c88ed21b-6cc5-47f0-9801-34223b5d0f62" />
 
+---
 
+* Check health status
+  
 <img width="288" height="177" alt="Screenshot 2026-05-03 163421" src="https://github.com/user-attachments/assets/5489ec50-0d7f-4be2-ab6c-b63d0bb29a06" />
