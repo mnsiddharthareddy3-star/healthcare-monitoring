@@ -186,4 +186,8 @@ Enter your choice:
 This project provides a foundational understanding of how programming can be used in healthcare systems.
 It can be further enhanced to build advanced real-time health monitoring applications.
 
+---
 
+## Screenshots
+
+https://1drv.ms/i/c/aaf57452cf2e00bc/IQBLRxz-Q50QTa_ddXnWOhm6AXEG0PSlipNmQaTjJtPpu9A?e=LpBcMv
