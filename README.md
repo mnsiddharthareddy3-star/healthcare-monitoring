@@ -190,4 +190,4 @@ It can be further enhanced to build advanced real-time health monitoring applica
 
 ## Screenshots
 
-https://1drv.ms/i/c/aaf57452cf2e00bc/IQBLRxz-Q50QTa_ddXnWOhm6AXEG0PSlipNmQaTjJtPpu9A?e=LpBcMv
+"C:\Users\mnsid\OneDrive\Pictures\Screenshots\Screenshot 2026-05-03 161552.png"
