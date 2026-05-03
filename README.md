@@ -188,6 +188,7 @@ It can be further enhanced to build advanced real-time health monitoring applica
 
 ---
 
-## Screenshots
+##Screenshots
 
-"C:\Users\mnsid\OneDrive\Pictures\Screenshots\Screenshot 2026-05-03 161552.png"
+<img width="368" height="177" alt="Screenshot 2026-05-03 161552" src="https://github.com/user-attachments/assets/57057253-c77d-48ca-9555-45e174fc39ee" />
+
